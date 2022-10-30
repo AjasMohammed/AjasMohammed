@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <h1>Ajas</h1>
-- 👀 I’m a fellow coder.
+- 👀 Python Programmer
 - 🌱 I’m currently trying my best in Python
 - 💞️ Let me know anything that I could do.
 - 📫 Reach me in <h4>ajasmohammed33@gmail.com</h4>
