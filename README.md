@@ -20,11 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
 
-<div align="left" style="margin:1rem;">
+<div align="left" style="margin-bottom: 10px;">
   <a href="https://www.linkedin.com/in/ajasmohammed/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
+</br>
 
 - Holopin Badge : [![@ajas33's Holopin board](https://holopin.me/ajas33)](https://holopin.io/@ajas33)
