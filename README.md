@@ -21,7 +21,10 @@
 </div>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="Your LinkedIn profile URL">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
+
 
 - Holopin Badge : [![@ajas33's Holopin board](https://holopin.me/ajas33)](https://holopin.io/@ajas33)
