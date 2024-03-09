@@ -21,6 +21,7 @@
 </div>
 
 </br>
+<h2 align="left">Connect</h2>
 <div align="left" style="margin-bottom: 10px;">
   <a href="https://www.linkedin.com/in/ajasmohammed/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
